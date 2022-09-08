@@ -8,12 +8,6 @@
 
 int main(void)
 {
-	char acharacter;
-	int ainteger;
-	long along;
-	long long my_very_long;
-	float afloat;
-
 	printf("Size of char: %lu byte(s)\n", sizeof(acharacter));
 	printf("Size of int: %lu byte(s)\n", sizeof(ainteger));
 	printf("Size of long: %lu byte(s)\n", sizeof(along));
