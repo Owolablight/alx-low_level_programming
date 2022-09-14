@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * print_alphabet - print alphabet
- * Return: Always 0 (Success)
+ * print_alphabet - print a-z
+ * Return: 0
  */
-
 void print_alphabet(void)
 {
 	char i;
