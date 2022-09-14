@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_sign - print the sign of a number
- * @c: runs code
+ * print_sign - print sign
+ * @n: runs code
  * Return: Always 0.
  */
 
