@@ -1,5 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
+/**
+ * main - prints its name
+ * Return: Always 0.
+ */
 
 int main(int argc, char *argv[])
 {
@@ -10,5 +14,5 @@ int main(int argc, char *argv[])
 		printf("%s\n", argv[i]);
 	}
 
-	return 0;
+	return (0);
 }
