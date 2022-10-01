@@ -2,6 +2,8 @@
 #include <stdlib.h>
 /**
  * main - prints its name
+ * @argc: argument count
+ * @argv: argument array
  * Return: Always 0.
  */
 
